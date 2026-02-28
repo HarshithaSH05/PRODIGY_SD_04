@@ -56,7 +56,7 @@ Display solved Sudoku
 ## Example Puzzle
 
 Example unsolved Sudoku:
-
+'''
 0 0 0 2 6 0 7 0 1
 6 8 0 0 7 0 0 9 0
 1 9 0 0 0 4 5 0 0
@@ -66,7 +66,7 @@ Example unsolved Sudoku:
 0 0 9 3 0 0 0 7 4
 0 4 0 0 5 0 0 3 6
 7 0 3 0 1 8 0 0 0
-
+'''
 ## Learning Outcomes
 
 Understanding Recursion
